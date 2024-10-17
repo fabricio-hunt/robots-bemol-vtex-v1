@@ -7,19 +7,6 @@ Disallow: /finalizacao/carrinho
 Disallow: /account*
 Disallow: /*/?map=productClusterIds
 
-User-agent: Googlebot
-Allow: /
-Disallow: /finalizacao/carrinho
-Disallow: /account*
-Disallow: /*/?map=productClusterIds
-
-
-User-agent: AdsBot-Google
-Allow: /
-Disallow: /finalizacao/carrinho
-Disallow: /account*
-Disallow: /*/?map=productClusterIds
-
 User-agent: Screaming Frog SEO Spider
 Allow: /
 
